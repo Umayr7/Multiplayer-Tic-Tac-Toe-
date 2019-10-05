@@ -1,0 +1,15 @@
+﻿  main.c
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(61): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(61): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(61): note: the missing variadic argument 2 is required by format string '%c'
+  d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(61): note: this argument is used as a buffer size
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(139): warning C4013: 'getch' undefined; assuming extern returning int
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(469): warning C4098: 'Host': 'void' function returning a value
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(483): warning C4098: 'Host': 'void' function returning a value
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(494): warning C4098: 'Host': 'void' function returning a value
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(504): warning C4098: 'Host': 'void' function returning a value
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(514): warning C4098: 'Host': 'void' function returning a value
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(523): warning C4098: 'Host': 'void' function returning a value
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(603): warning C4047: 'return': 'char *' differs in levels of indirection from 'int'
+d:\project pf\project\multiplayer tic tac toe\multiplayer tic tac toe\main.c(621): warning C4098: 'Shutdown': 'void' function returning a value
+  Multiplayer Tic Tac Toe.vcxproj -> D:\project pf\project\Multiplayer Tic Tac Toe\Debug\Multiplayer Tic Tac Toe.exe
